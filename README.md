@@ -2,10 +2,11 @@
 백엔드 신입 개발자 정지욱입니다!
 
 ## Profile
-Birth: 1997.11.17 <br>
-Tel: 010-4199-8127 <br>
+😄 1997.11.17 <br>
+📞 010-4199-8127 <br>
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Gmail</title><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijung93@gmail.com)](mailto:orijung93@gmail.com) <span><a href="https://scalloped-lan-dc3.notion.site/70efed36129f4d67ba93864ab7f55b30"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:orijung93@gmail.com)](mailto:orijung93@gmail.com) <span><a href="https://scalloped-lan-dc3.notion.site/70efed36129f4d67ba93864ab7f55b30"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a> jiwook6273@gmail.com <br>
 
 <br/>
 
@@ -22,9 +23,7 @@ Tel: 010-4199-8127 <br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-000?style=for-the-badge&logo=QueryDSL&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 
@@ -38,12 +37,12 @@ Tel: 010-4199-8127 <br>
 
 
 ## 📊 GitHub stats
-![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung93&theme=vue-dark&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung93&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-dennisjeong3&theme=vue-dark&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dennisjeong3&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 <!--
-**Jung93/Jung93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dev-dennisjeong/dev-dennisjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
