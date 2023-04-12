@@ -5,7 +5,7 @@
 😄 1997.11.17 <br>
 📞 010-4199-8127 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwook6273@gmail.com)](mailto:jiwook6273@gmail.com) <span><a href="www.notion.so/probable-money-ff7"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwook6273@gmail.com)](mailto:jiwook6273@gmail.com) <span><a href="https://www.notion.so/probable-money-ff7"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 <br/>
 
